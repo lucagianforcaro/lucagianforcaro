@@ -32,13 +32,3 @@ Most of what I study ends up as an experiment in one of these repositories.
 Open to junior roles in robotics and ML engineering in Europe, and to research in robot learning.
 
 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-
-🛠️ Tools
-
-Python PyTorch TensorFlow / Keras LeRobot MuJoCo Anomalib ROS 2 C++ Linux Git
-
-📫 Let's talk
-
-Open to junior roles in robotics and ML engineering in Europe, and to research in robot learning.
-
-LinkedIn
